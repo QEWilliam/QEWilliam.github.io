@@ -1,0 +1,67 @@
+/*.path-hover:hover {
+    fill: yellow;
+}
+
+.path-outline:hover {
+    fill:red;
+}*/
+
+.path-outline, .path-outline-thin {
+    fill: none;
+    stroke-width: 0;
+    stroke: #f8c014;
+    pointer-events: none;
+}
+
+.desc {
+    visibility: hidden;
+    pointer-events: none;
+    font-family: Raleway, sans-serif;
+    color: #f8c014;
+    position: absolute;
+    font-size: 100px;
+}
+
+.desc>div {
+    color: /*#f8c014*/#AE9957;
+    display: block;
+    position: absolute;
+    background-color: #071c2c;
+    height: auto;
+    width: auto;
+    margin: 60px;
+    padding: 60px;
+}
+
+.info-name {
+    font-weight: bold;
+    font-size: 150px;
+}
+
+.info-role {
+    font-weight: 500;
+    font-size: 120px;
+}
+
+.desc h3, .desc h5, .desc p {
+    display: block
+}
+
+.path-hover {
+    stroke-width: 0;
+    fill: none;
+    pointer-events: all;
+}
+
+.path-hover:hover ~ use.path-outline {
+    stroke-width: 40px;
+}
+
+
+.path-hover:hover ~ use.path-outline-thin {
+    stroke-width: 5px;
+}
+
+.path-hover:hover ~ .desc {
+    visibility: visible;
+}
