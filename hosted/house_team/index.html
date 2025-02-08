@@ -1,30 +1,33 @@
 <html>
     <head>
-        <title> The simplest HTML example 
-        </title>
+        <title> Leicester House Team Photo</title>
+        <style>
+            body {
+                margin: 0;
+            }
+            
+            #outlines {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                inset: 0px;
+                overflow: visible;
+            }
+
+            path {
+                pointer-events:all;
+            }
+
+            path:hover {
+                fill: white;
+                
+            }
+        </style>
     </head>
     <body>
         <div style="width: 100%;position:relative">
             <img src="Team photo.jpg" width="100%">
-            <style>
-                #outlines {
-                    width: 100%;
-                    height: 100%;
-                    position: absolute;
-                    inset: 0px;
-                    overflow: visible;
 
-                }
-
-                path {
-                    pointer-events:all;
-                }
-
-                path:hover {
-                    fill: white;
-                    
-                }
-                </style>
         <object  id="outlines" data="outlinesmod.svg" type="image/svg+xml"><!--fallback--></object>
         </div>
     </body>
