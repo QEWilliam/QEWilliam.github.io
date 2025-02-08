@@ -12,6 +12,7 @@
                 position: absolute;
                 inset: 0px;
                 overflow: visible;
+                visibility: hidden;
             }
 
             path {
@@ -23,6 +24,9 @@
                 
             }
         </style>
+        <script>
+            window.onload = () => document.getElementById("outlines").style.visibility="visible";
+        </script>
     </head>
     <body>
         <div style="width: 100%;position:relative">
