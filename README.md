@@ -1,1 +1,0 @@
-# QEWilliam.github.io
