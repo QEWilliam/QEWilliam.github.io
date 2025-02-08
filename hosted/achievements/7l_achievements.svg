@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="182.10201mm"
+   height="220.547mm"
+   viewBox="0 0 182.10201 220.54699"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="7l_achievements.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#071c2c"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.82209079"
+     inkscape:cx="187.93545"
+     inkscape:cy="467.7099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:lockguides="false"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch64"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop64" />
+    </linearGradient>
+    <linearGradient
+       id="swatch63"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop63" />
+    </linearGradient>
+    <linearGradient
+       id="swatch62"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#071c2c;stop-opacity:1;"
+         offset="0"
+         id="stop62" />
+    </linearGradient>
+    <linearGradient
+       id="swatch61"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ae9957;stop-opacity:1;"
+         offset="0"
+         id="stop61" />
+    </linearGradient>
+    <linearGradient
+       id="swatch60"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#f8c014;stop-opacity:1;"
+         offset="0"
+         id="stop60" />
+    </linearGradient>
+    <rect
+       x="295.0318"
+       y="232.17332"
+       width="183.03584"
+       height="65.184364"
+       id="rect1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch61"
+       id="linearGradient115"
+       gradientUnits="userSpaceOnUse"
+       x1="32.614265"
+       y1="122.4286"
+       x2="204.71652"
+       y2="122.4286" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch60"
+       id="linearGradient18"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-7.4300185,1.3087403)"
+       x1="82.369095"
+       y1="14.055836"
+       x2="201.64323"
+       y2="14.055836" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch61"
+       id="linearGradient20"
+       gradientUnits="userSpaceOnUse"
+       x1="135.46892"
+       y1="31.379601"
+       x2="201.72038"
+       y2="31.379601"
+       gradientTransform="translate(0.60079114)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.614264,-7.3089569)">
+    <rect
+       style="fill:url(#swatch62);stroke-width:0.264583"
+       id="rect22"
+       width="210.72102"
+       height="239.53719"
+       x="19.115759"
+       y="5.1880684" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'Essonnes Test';-inkscape-font-specification:'Essonnes Test';fill:url(#linearGradient18);stroke-width:0.264583"
+       x="79.302299"
+       y="26.899788"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'Essonnes Test';-inkscape-font-specification:'Essonnes Test';fill:url(#linearGradient18);fill-opacity:1;stroke-width:0.264583"
+         x="79.302299"
+         y="26.899788"
+         sodipodi:role="line">7L Achievements</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.99722px;fill:url(#linearGradient115);stroke-width:0.264583"
+       x="38"
+       y="37"
+       id="text3"
+       inkscape:transform-center-x="1.0246144"
+       inkscape:transform-center-y="6.3915806"
+       inkscape:label="text3"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="37"
+         id="tspan55"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan56">Aiden</tspan> started flute lessons</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="44.705681"
+         id="tspan4"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan31">Noah</tspan> started running a club</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="52.411358"
+         id="tspan5"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan34">Lorenzo</tspan> received a bronze merit badge</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="60.117039"
+         id="tspan9"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan33">Sidhak</tspan> reached Club level in swimming</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="67.822716"
+         id="tspan10"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan35">Abhay</tspan> learnt breast-stroke</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="75.528397"
+         id="tspan57"
+         sodipodi:role="line"><tspan
+   style="font-weight:bold;font-size:5.99722px;fill:url(#swatch60)"
+   id="tspan58">Djad</tspan> achieved a Distinction in Grade 1 LAMDA Public Speaking</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="83.234077"
+         id="tspan11"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan36">Mylan</tspan> passed Grade 7 Piano</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="90.939751"
+         id="tspan12"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan37">Aarez</tspan> joined the Water Polo team</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="98.645432"
+         id="tspan13"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan38">Habeeb</tspan> learnt a kata in Karate</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="106.35111"
+         id="tspan14"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan39">Alex</tspan> successfully applied for a music club</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="114.05679"
+         id="tspan15"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan40">Rhys</tspan> played in B team rugby</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="121.76247"
+         id="tspan16"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan41">Alan</tspan> attended choral scholarships</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="129.46815"
+         id="tspan17"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan42">Ayan</tspan> passed Grade 1 LAMDA Public Speaking</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="137.17383"
+         id="tspan18"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan43">Radiyen</tspan> reached the D team in Set 1 rugby</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="144.8795"
+         id="tspan19"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan44">Siddharth</tspan> played his first rugby Saturday match</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="152.58519"
+         id="tspan20"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan45">Parshva</tspan> was successful in a chess tournament</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="160.29086"
+         id="tspan21"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan46">Bilal</tspan> received Distinction in Grade 1 LAMDA Public Speaking</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="167.99655"
+         id="tspan22"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan47">Vidyut</tspan> was awarded 60 merits</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="175.70222"
+         id="tspan23"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan48">Cian</tspan> is the Vice Form Captain</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="183.4079"
+         id="tspan24"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan49">Vihaan</tspan> won 3 consecutive rugby matches</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="191.11359"
+         id="tspan25"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan50">Aadit</tspan> passed Grade 1 Guitar</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="198.81926"
+         id="tspan26"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan51">Priyom</tspan> progressed by 5 levels in 2 months in swimming</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="206.52495"
+         id="tspan27"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan52">Maanush</tspan> was awarded 100 merits</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="214.23062"
+         id="tspan28"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan53">Ethan</tspan> did the best in his class in a Technology test</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:Soleil;fill:url(#linearGradient115);stroke-width:0.264583"
+         x="38"
+         y="221.93629"
+         id="tspan29"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#swatch60)"
+   id="tspan54">Soren</tspan> came first in Cross Country</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:Soleil;-inkscape-font-specification:'Soleil Bold';fill:url(#linearGradient20);stroke-width:0.264583"
+       x="140.93988"
+       y="39.278183"
+       id="text60"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Essonnes Test';-inkscape-font-specification:'Essonnes Test';fill:url(#linearGradient20);stroke-width:0.264583"
+         x="140.93988"
+         y="39.278183">February 2025</tspan></text>
+  </g>
+</svg>
